@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "my-app-3a",
-    "slug": "my-app-3a",
+    "name": "SamBokya",
+    "slug": "sambokya",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp3a",
+    "scheme": "sambokya",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
